@@ -2,6 +2,6 @@
 
 #Welcom to my github repository
 
->안녕하세요. <br> dddddddddddddd(마크다운 문법 검색하면 나옴)
+>안녕하세요. <br> 경기게임마이스터고에 재학중인 '김연호'입니다.
 
 [![Gondr's GitHub stats](https://github-readme-stats.vercel.app/api?username=fish2363)](https://github.com/anuraghazra/github-readme-stats)
