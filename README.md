@@ -26,7 +26,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=fish2363&theme=juicyfresh&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fishmaster)](https://solved.ac/fishmaster/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=fishmaster&theme=warm)
-<img src="https://img.shields.io/badge/Unity&FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
 
 
 
