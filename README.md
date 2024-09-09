@@ -23,7 +23,7 @@
 |노력|⭐⭐⭐⭐⭐|100%|
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fish2363&theme=juicyfresh&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fish2363&theme=juicyfresh&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
