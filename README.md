@@ -27,7 +27,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fishmaster)](https://solved.ac/fishmaster/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=fishmaster&theme=warm)
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=181717"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
 
 
 
