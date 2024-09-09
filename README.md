@@ -22,7 +22,10 @@
 |자신감|⭐⭐⭐⭐⭐|100%|
 |노력|⭐⭐⭐⭐⭐|100%|
 
-https://github-profile-trophy.vercel.app/?username=fish2363&theme=juicyfresh
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fish2363&theme=juicyfresh&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ### 앞으로 **더욱 더**  열심히 <span style="color:yellow">노력</span>해서 훌륭하고 <span style="color:cyan">성실한</span> 개발자가 되기 위해서 <u>노력하겠습니다!</u>
 
