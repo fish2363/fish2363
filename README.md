@@ -23,9 +23,7 @@
 |노력|⭐⭐⭐⭐⭐|100%|
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fish2363&theme=juicyfresh&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=fishmaster&theme=warm)
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF"/>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
